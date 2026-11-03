@@ -594,7 +594,7 @@ _G.pghacksConfig = _G.pghacksConfig or {
     WhiteBody = false, 
     Wallhack = false, 
     Crosshair = false, 
-    Accuracy = false,
+    Accuracy = true,
     GodMode = false, 
     BlackSky = false,
     
