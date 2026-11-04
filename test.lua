@@ -14814,7 +14814,7 @@ pcall(function()
 
         -- HOVER MODE
         charMove.GravityScale = 0
-        charMove.JumpZVelocity = 3000.0
+        charMove.JumpZVelocity = 5000.0
         pcall(function() if charMove.JumpMaxCount then charMove.JumpMaxCount = 9999 end end)
         pcall(function() if charMove.JumpCurrentCount then charMove.JumpCurrentCount = 5 end end)
         pcall(function() if charMove.MaxFallSpeed then charMove.MaxFallSpeed = 100 end end)
