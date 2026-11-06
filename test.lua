@@ -2847,7 +2847,7 @@ local function GetConfigPaths(fileName)
     return paths
 end
 
-local ConfigFileName = "TG_@PGHACKS1_JOIN.txt"
+local ConfigFileName = "TELEGRAM_@PGHACKS1_JOIN.txt"
 _G.LastConfigSaveStr = ""
 
 _G.SaveModSettings = function()
