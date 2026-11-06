@@ -1,4 +1,4 @@
-ocal BRPlayerCharacterBase = {
+local BRPlayerCharacterBase = {
   ServerRPC = {},
   ClientRPC = {},
   MulticastRPC = {},
