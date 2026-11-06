@@ -13435,7 +13435,7 @@ function ESP.UpdateCounter(nPlayers, nBots, pc, viewW)
     ESP.Counter = d
   end
   if not d then return nil end
-  local label = string.format("Players: %d | Bots: %d", nPlayers or 0, nBots or 0)
+  local label = string.format("REAL: %d | BOTS: %d", nPlayers or 0, nBots or 0)
   pcall(function()
     if d.Last ~= label then d.Text:SetText(label) d.Last = label end
   end)
