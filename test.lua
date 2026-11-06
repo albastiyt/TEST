@@ -12607,8 +12607,8 @@ local CFG = {
   MaxTracked = 16,
   ScreenMargin = 220,
   TopTextY = 6.0,           -- canvas px, bilkul upar center
-  CounterOffsetX = -60,     -- counter left shift (-60 = thora left)
-  SnapOriginOffsetX = -60,  -- snap line origin left shift
+  CounterOffsetX = -30,     -- counter left shift (-60 = thora left)
+  SnapOriginOffsetX = -30,  -- snap line origin left shift
   SnapOriginY = 0.0,        -- top edge se start (esplook jaisa)
   SnapThickness = 1.8,
   CornerThickness = 2.2,
