@@ -12618,7 +12618,7 @@ local CFG = {
   MaxDistance = 40000,      -- cm (400 m)
   MaxTracked = 16,
   ScreenMargin = 220,
-  ScreenMarginExtraX = 0.03, -- left/right range +3% of screen width (side enemies)
+  ScreenMarginExtraX = 0.8, -- left/right range +3% of screen width (side enemies)
   TopTextY = 30.0,          -- source match: slot Y=30 from top           -- canvas px, bilkul upar center
   CounterOffsetX = 0,       -- 0 = true center (canvas geometry se auto-detect)
   SnapOriginOffsetX = 0,    -- 0 = true center
