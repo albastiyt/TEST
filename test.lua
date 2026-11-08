@@ -1515,12 +1515,12 @@ function _G.InitModMenuTab()
             Text = "❏ @PGHACKS1'MENU",
             UIKey = "Setting_Page_Privacy",
             Category = {
-                { Key = "Cat_ESP_Visual", Text = "➠ ESP LOCATION", Stack = StackESPVisual },
-                { Key = "Cat_Aimbot_Force", Text = "➠ TOUCH AIMBOT", Stack = StackAimbotForce },
-                { Key = "Cat_ColorMod", Text = "➠ V2 WH NEW", Stack = StackColorMod },
-                { Key = "Cat_Combat_Graphic", Text = "➠ IPAD VIEW/FPS", Stack = StackCombatGraphic },
-                { Key = "Cat_SkinMod", Text = "➠ SKIN CUSTOM", Stack = StackSkinMod },
-                { Key = "Cat_Brutal", Text = "➠ BRUTAL", Stack = StackBrutal }
+                { Key = "Cat_ESP_Visual", Text = "⛥ ESP LOCATION", Stack = StackESPVisual },
+                { Key = "Cat_Aimbot_Force", Text = "⊕ TOUCH AIMBOT", Stack = StackAimbotForce },
+                { Key = "Cat_ColorMod", Text = "➢ V2 WH NEW", Stack = StackColorMod },
+                { Key = "Cat_Combat_Graphic", Text = "⇅ IPAD VIEW/FPS", Stack = StackCombatGraphic },
+                { Key = "Cat_SkinMod", Text = "$ SKIN CUSTOM", Stack = StackSkinMod },
+                { Key = "Cat_Brutal", Text = "☠ BRUTAL", Stack = StackBrutal }
             }
         }
         
