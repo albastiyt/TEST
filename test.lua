@@ -677,7 +677,7 @@ _G.pghacksConfig = _G.pghacksConfig or {
     EspWeaponStatus = false,
 
     -- Skin Mod
-    ModSkin = false,
+    ModSkin = true,
     KillMessage = true,    -- Kill Messenger (FIX: enabled by default)
     SkinDeadBox = true,    -- Deadbox Skin   (FIX: enabled by default)
     KillCountUI = false,   -- Kill Counter UI
